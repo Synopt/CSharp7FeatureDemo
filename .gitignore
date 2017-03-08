@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/CSharp7FeatureDemo/v15/.suo
+/CSharp7FeatureDemo/bin/Debug/netcoreapp1.0
+/CSharp7FeatureDemo/obj
+/.vs/CSharp7FeatureDemo/v14/.suo
